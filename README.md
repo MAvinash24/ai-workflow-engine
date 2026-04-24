@@ -101,6 +101,8 @@ Backend will run at:
 ```
 cd frontend
 npm install
+npm install axios
+npm audit fix
 npm run dev
 ```
 
