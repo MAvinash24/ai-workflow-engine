@@ -176,5 +176,3 @@ Fetch posts, summarize them, and store the result
 ##  Author
 
 Avinash
-
----
